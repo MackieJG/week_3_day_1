@@ -31,3 +31,14 @@ body > main > article{
     margin: auto;
     width: 70%;
 }
+
+.like-button{
+    background-color: transparent;
+    border: 1px solid dodgerblue;
+}
+
+.share-button{
+    background-color: transparent;
+    border: 1px solid green;
+}
+
